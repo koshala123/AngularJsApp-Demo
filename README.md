@@ -11,3 +11,5 @@ Entity framework DB first approach
 Desgin Patterns Used,
 Dependecy Injection using Unity.MVC5
 Repostiory Pattern
+
+The youtube tutorial which i followed is https://www.youtube.com/watch?v=S18LT5q7ygw
